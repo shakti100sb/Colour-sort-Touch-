@@ -66,4 +66,4 @@ Author
 ------
 - Developed using HTML5, CSS, and JavaScript  
 - Designed for touch-based interactive gameplay  
-- Developed by Sharas Pvt
+- Developed by Shakti 
